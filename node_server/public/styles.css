@@ -1,0 +1,25 @@
+body{
+    background:#aa68ec;
+  }
+  .page-sections{
+    width: 10%;
+    height: 50%;
+    position: relative;
+    outline: 1px solid #fff;
+  } 
+  
+  #first{
+    position: relative;
+    margin: 50%;
+  }
+  
+  /* pseudo selctor */
+  #first:hover{
+    margin: 0;
+  }
+  
+  #main-header{
+    color: #fff;
+    font-family: sans-serif;
+  }
+  
